@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi. Manuel from France here. I'm a "full-stack" developer, but having done more backend work than front so far.
 
-<!--
-**DegradingGracefully/DegradingGracefully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__Backend:__ Actually I enjoy developing backend MVC apps in Java, eg a good combo is:
+* Model (Hibernate)
+* View (JSON, or even XML through SOAP had some interesting things going for it)
+* Controller (REST APIs through Spring MVC)
 
-Here are some ideas to get you started:
+And I enjoy writing batches when I can make them elegant too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meanwhile, I've just started exploring Kotlin, that I may use someday to program some desktop apps with JavaFX.
+
+__Frontend__: I also appreciate some stuff in javascript. Namely I find the functional idioms, the whole map(), filter(), reduce() functions nicely readable.
+
+As for the frameworks, React and Angular seem like solid options, but currently focusing on the lighter (which also means a little bit less features) Svelte JS.
+
+Cheers.
