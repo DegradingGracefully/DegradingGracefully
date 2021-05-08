@@ -1,6 +1,6 @@
 Hi. Manuel from France here.
 
-:warning: :construction: __About this GitHub:__ The reason I've set up this GitHub account is just for showcasing some of my work to potential employers ;) And, even though I plan to open source some of these works eventually, please don't use these sources as they currently stand, since they're still just a bit more than "walking skeletons" :skull: :p
+:warning: :construction: __About this GitHub:__ The reason I've set up this GitHub account is just for showcasing some of my work to potential employers ;) And, even though I plan to open source some of these works eventually, please don't use these sources as they currently stand, since they're still just a bit more than "walking skeletons" :stuck_out_tongue:
 
 ## :checkered_flag: Stacks I've enjoyed so far
 
