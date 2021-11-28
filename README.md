@@ -20,7 +20,7 @@ Hi. Manuel from France here.
 
 ## :computer: Misc technological interests
 
-<img alt="TDD" src="2011-02-14_Red_Green_Refactor_.svg" height="28" />
+<img alt="TDD" src="2011-02-14_Red_Green_Refactor_.svg" height="168" />
 
 (:grin: image from [rafpe.ninja](https://rafpe.ninja/2015/10/05/pester-test-driven-development-for-powershell-intro/))
 
