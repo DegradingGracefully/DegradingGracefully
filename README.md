@@ -35,3 +35,4 @@ Why Java ?
 ##  :hearts: Other interests
 * mindfulness meditation / trying to practice mindfulness
 * video games (RPG, Turn based strategy...)
+* quite a bit of Slay The Spire...
